@@ -27,7 +27,7 @@ function Footer() {
           <ul className="footer-info">
             <li>📍 Lisboa, Rua Jão 1º</li>
             <li>🕐 Terça a Domingo: 8h-22h</li>
-            <li>📞 +351 XXX XXX XXX</li>
+            <li>📞 +351 545 233 890</li>
           </ul>
         </div>
       </div>
