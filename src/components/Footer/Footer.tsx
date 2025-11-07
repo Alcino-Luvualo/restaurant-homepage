@@ -14,7 +14,7 @@ function Footer() {
         </div>
 
         <div className="footer-section">
-          <h4 className="footer-heading">Navegação</h4>
+          <h4 className="footer-heading">Links Rápidos</h4>
           <ul className="footer-links">
             <li><Link to="/">Home</Link></li>
             <li><Link to="/menu">Menu</Link></li>
@@ -40,4 +40,3 @@ function Footer() {
 }
 
 export default Footer;
-
